@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7D65EA36-80AA-458E-B70E-09A8226CEEFA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Color for ios7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>92931ED6-CAB4-47CC-8EB2-2C7EB9CDF5D3</key>
+		<string>https://github.com/wangxiaofeinin/ColorForIOS7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Color for ios7.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>92931ED6-CAB4-47CC-8EB2-2C7EB9CDF5D3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangxiaofeinin/ColorForIOS7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>92931ED6-CAB4-47CC-8EB2-2C7EB9CDF5D3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92931ED6-CAB4-47CC-8EB2-2C7EB9CDF5D3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoColorForios7</string>
+		</dict>
+	</array>
+</dict>
+</plist>
